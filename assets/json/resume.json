@@ -1,22 +1,22 @@
 {
   "basics": {
     "name": "Luis E. Ascencio Gorozpe",
-    "label": "Mathematics, Data Scientist, Probability and statistics PhD Candidate",
+    "label": "Data Scientist",
     "image": "",
     "email": "luis.ascencio@cimat.mx",
     "phone": "-",
     "url": "https://luisgorozpe.github.io/al-folio/",
-    "summary": "Mathematics, Data Scientist and Probability and statistics Phd Candidate.",
+    "summary": "Mathematician, Data Scientist and Probability and statistics Phd Candidate with experience in teaching mathematics, programming, probability and statistics in undergraduate and graduate courses. Currently in revision and corrections of Phd thesis and documenting the software created for the research of the project.",
     "location": {
       "address": "-",
       "postalCode": "-",
       "city": "CDMX",
       "countryCode": "MX",
-      "region": "Mexico City"
+      "region": "Mèxico City"
     },
     "profiles": [
       {
-        "network": "LinkedIN",
+        "network": "LinkedIn",
         "username": "luisgorozpe",
         "url": "https://www.linkedin.com/in/luisgorozpe"
       }
@@ -31,18 +31,6 @@
       "endDate": "1955-01-01",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
@@ -115,7 +103,7 @@
         "Information Theory"
       ]
     },
-        {
+    {
       "name": "Computer Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
