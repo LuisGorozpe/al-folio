@@ -4,12 +4,12 @@
     "label": "Mathematics, Data Scientist, Probability and statistics PhD Candidate",
     "image": "",
     "email": "luis.ascencio@cimat.mx",
-    "phone": "",
+    "phone": "-",
     "url": "https://luisgorozpe.github.io/al-folio/",
     "summary": "Mathematics, Data Scientist and Probability and statistics Phd Candidate.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      "address": "-",
+      "postalCode": "-",
       "city": "CDMX",
       "countryCode": "MX",
       "region": "México City"
@@ -93,8 +93,7 @@
       "keywords": [
         "Machine Learning",
         "Time Series",
-        "Statistics",
-        "Probability",
+        "Probability and Statistics",
         "Differential Equiations",
         "Differential Geometry"
       ]
