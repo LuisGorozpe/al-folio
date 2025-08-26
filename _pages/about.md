@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cimat.mx'>CIMAT</a>. Centro de Investigación en Matemáticas, A.C., Jalisco S/N, Col. Valenciana CP: 36023 Guanajuato, Gto, México, Apartado Postal 402, CP 36000.
+subtitle: <a href='https://www.cimat.mx'>CIMAT</a>. Centro de Investigación en Matemáticas, A.C., Jalisco S/N, Col. Valenciana CP.36023 Guanajuato, Gto, México, Apartado Postal 402, CP 36000.
 
 profile:
   align: right
