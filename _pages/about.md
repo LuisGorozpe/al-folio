@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cimat.mx'>CIMAT</a>. Centro de Investigación en Matemáticas, A.C., Jalisco S/N, Col. Valenciana CP.36023 Guanajuato, Gto, México, Apartado Postal 402, CP 36000.
+subtitle: <a href='https://www.cimat.mx'>CIMAT</a>. Centro de Investigación en Matemáticas, A.C., Jalisco S/N, Col. Valenciana CP 36023 Guanajuato, Gto, México, Apartado Postal 402, CP 36000
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
     <p>México City</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
