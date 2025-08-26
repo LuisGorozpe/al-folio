@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>S.N. office number</p>
     <p>-</p>
-    <p>Mèxico City, CDMX</p>
+    <p>México City, CDMX</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
