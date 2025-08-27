@@ -26,5 +26,4 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-I have a master's degree in pure mathematics and am a doctoral candidate in mathematics with a focus on probability and statistics at CIMAT.
+ I'm a PhD candidate in mathematics with a focus on probability and statistics at CIMAT. I obtain a master's degree in pure mathematics in 2021.
