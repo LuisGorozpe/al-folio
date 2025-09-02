@@ -26,4 +26,4 @@ announcements:
 #  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
 #  limit: 3 # leave blank to include all the blog posts
 ---
- I'm a PhD candidate in mathematics with a focus on probability and statistics at CIMAT. I obtain a master's degree in pure mathematics in 2021.
+ I'm a PhD candidate in mathematics at CIMAT, I'm focus on probability and statistics. I obtain a master's degree in pure mathematics in 2021 and a mathematics bachelor's degree in 2017.
