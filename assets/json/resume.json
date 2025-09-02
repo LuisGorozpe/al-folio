@@ -53,15 +53,37 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Centro de Investigación en Matemáticas, A.C",
+      "location": "Guanajuato, Gto, México",
+      "url": "cimat.mx",
+      "area": "Probability and statistics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2021-08-01",
+      "endDate": "2025-07-31",
+      "score": "9.33",
+      "courses": ["Data Science,Time Series,Statistical inference,Statistical models,asymptotic theory"]
+    },
+    {
+      "institution": "Universidad Autónoma Metropolitana",
+      "location": "México City, México",
+      "url": "https://www.uam.mx",
+      "area": "Mathematics",
+      "studyType": "Master's degree",
+      "startDate": "2018-05-01",
+      "endDate": "2021-05-23",
+      "score": "8.66",
+      "courses": ["Differential Equations, Linear Algebra, Differential Geometry"]
+    },
+    {
+      "institution": "Universidad Autónoma Metropolitana",
+      "location": "México City, México",
+      "url": "https://www.uam.mx",
+      "area": "Mathematics",
+      "studyType": "bachelor's degree",
+      "startDate": "2011-09-01",
+      "endDate": "2017-12-20",
+      "score": "8.04",
+      "courses": ["Statistics, Numerical Methods, Differential Equations, Linear Algebra, Differential Geometry"]
     }
   ],
   "certificates": [
