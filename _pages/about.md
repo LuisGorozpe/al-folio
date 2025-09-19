@@ -26,4 +26,12 @@ announcements:
 #  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
 #  limit: 3 # leave blank to include all the blog posts
 ---
- I'm a PhD candidate in mathematics at CIMAT, I'm focus on probability and statistics. I obtain a master's degree in pure mathematics in 2021 and a mathematics bachelor's degree in 2017.
+ I am a Ph.D. candidate in Mathematics at CIMAT. My work primarily focuses on probability and statistics. I completed my Master's degree in Pure Mathematics in 2021 and my Bachelor's degree in Mathematics in 2017.
+
+ While pursuing my Bachelor's degree at the Universidad Autónoma Metropolitana (UAM), I coordinated seminars for mathematics and physics students. My coursework included core subjects such as Mathematical Analysis, Measure Theory, Linear Algebra, Probability and Statistics, Numerical Analysis, Differential Equations (Ordinary and Partial), and Differential Geometry.
+
+During my Master's studies, also at the UAM, I delved deeper into topics like Linear Algebra, Differential Equations, Differential Geometry, Numerical Methods, and Measure Theory.
+
+Currently, as a Ph.D. candidate at CIMAT, my coursework and research are centered on Probability and Statistics. I have a particular interest in Data Science, Machine Learning, nonlinear statistics, and high-dimensional statistics, with a specific focus on dimensionality reduction techniques. I have also served as a teaching assistant for graduate courses, covering subjects like Statistical Models, Programming, Time Series, Statistical Inference, and Statistical Computing.
+
+My current research interests include nonlinear statistics on Riemannian manifolds, the analysis and modeling of time series, and the study of Data Science and its application for developing Machine Learning and artificial intelligence technologies.
