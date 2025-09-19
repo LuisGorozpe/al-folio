@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>S.N. office number</p>
+    <p>Venustiano Carranza, 15900 Ciudad de México, CDMX.</p>
     <p>n</p>
     <p>México City</p>
 
