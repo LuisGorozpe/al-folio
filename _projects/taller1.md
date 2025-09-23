@@ -8,6 +8,6 @@ category: academic
 related_publications: true
 ---
 
-jk
+# Practicas avanzadas de programación con Python y  Una introducción a las Series De tiempo.
 
 
