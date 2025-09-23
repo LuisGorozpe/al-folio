@@ -79,9 +79,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-practicas-avanzadas-de-programación",
+          title: 'Practicas avanzadas de programación',
+          description: "Taller impartido en el Instituto de Investigaciones Economicas de la UNAM.",
           section: "Projects",handler: () => {
               window.location.href = "/al-folio/projects/taller1/";
             },},{
