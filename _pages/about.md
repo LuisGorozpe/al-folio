@@ -26,12 +26,15 @@ announcements:
 #  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
 #  limit: 3 # leave blank to include all the blog posts
 ---
- I am a Ph.D. candidate in Mathematics at CIMAT. My work primarily focuses on probability and statistics. I completed my Master's degree in Pure Mathematics in 2021 and my Bachelor's degree in Mathematics in 2017.
+I am a highly analytical Ph.D. candidate in Mathematics at CIMAT, leveraging 7+ years of rigorous training in Probability, Statistics, and Mathematical Modeling to solve complex, high-dimensional data problems. I am dedicated to bridging advanced theoretical knowledge with robust industrial applications in Data Science, Machine Learning, and Data Engineering.
 
- While pursuing my Bachelor's degree at the Universidad Autónoma Metropolitana (UAM), I coordinated seminars for mathematics and physics students. My coursework included core subjects such as Mathematical Analysis, Measure Theory, Linear Algebra, Probability and Statistics, Numerical Analysis, Differential Equations (Ordinary and Partial), and Differential Geometry.
+ I am actively pursuing professional certifications to align my academic expertise with industry best practices. My current focus includes obtaining Data Analyst certifications in cloud environments (GCP and AWS), and completing specialized courses to acquire Databricks certifications for massive and distributed computing using Spark and PySpark. This ensures proficiency in scalable data architecture and deployment technologies.
 
-During my Master's studies, also at the UAM, I delved deeper into topics like Linear Algebra, Differential Equations, Differential Geometry, Numerical Methods, and Measure Theory.
+My doctoral research at CIMAT is centered on advanced Probability and Statistics, with a practical emphasis on Machine Learning (ML) techniques, high-dimensional statistics, and dimensionality reduction. I specialize in developing and applying cutting-edge methodologies for time series analysis and the statistical modeling of complex, non-Euclidean data structures. I have also gained pedagogical experience as a Teaching Assistant for graduate courses, including Statistical Models, Programming (Python/R), Time Series, Statistical Inference, and Statistical Computing.
 
-Currently, as a Ph.D. candidate at CIMAT, my coursework and research are centered on Probability and Statistics. I have a particular interest in Data Science, Machine Learning, nonlinear statistics, and high-dimensional statistics, with a specific focus on dimensionality reduction techniques. I have also served as a teaching assistant for graduate courses, covering subjects like Statistical Models, Programming, Time Series, Statistical Inference, and Statistical Computing.
+My academic journey provides a strong foundation in core analytical disciplines:
 
-My current research interests include nonlinear statistics on Riemannian manifolds, the analysis and modeling of time series, and the study of Data Science and its application for developing Machine Learning and artificial intelligence technologies.
++ Master of Science (Pure Mathematics, UAM): Deepened expertise in Measure Theory (essential for rigorous Probability), Linear Algebra, and Numerical Methods.
++ Bachelor of Science (Mathematics, UAM): Coursework included Probability & Statistics, Mathematical Analysis, Linear Algebra, and Numerical Analysis. Crucially, during this period, I collaborated with the UAM Visualization and Parallel Computing Laboratory, gaining early exposure and hands-on knowledge in supercomputing and cloud computing environments.
+
+My goal is to transition my expertise in statistical rigor and computational efficiency into a high-impact role as a Data Scientist, Data Engineer, or Senior Data Analyst.
