@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "You can find my extended resume (spanish version) here   https://luisgorozpe.github.io/cv_7.pdf",
+          description: "here is my resume.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/al-folio/cv/";
