@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: https://luisgorozpe.github.io/CV-Luis-Enrique-Ascencio-G.pdf # you can also use external links here
-description: You can find my extended resume (spanish version) here   https://luisgorozpe.github.io/cv_7.pdf
+description: here is my resume.
 toc:
   sidebar: left
 ---
